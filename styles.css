@@ -1,0 +1,85 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color:black;
+}
+
+.main {
+    width: 450px;
+    height: 600px;
+    margin: auto;
+    background-color: white;
+    margin-top: 50px;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    padding: 15px 10px;
+
+}
+
+.header p{
+    padding: 0;
+    margin: 0;
+    padding-left: 5px;
+}
+
+
+.iconos {
+    width: 30px;
+    height: 30px;
+    padding-right: 2px;
+    padding-top: 5px;
+}
+
+.i-footer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.izquierda{
+    float: left;
+    padding-left: 10px;
+}
+
+.derecha{
+    float: right;
+    padding-right: 10px;
+}
+
+.like-text {
+    padding-left: 10px;
+    margin: 0;
+    font-size: 14px;
+}
+
+.text {
+    margin: 0;
+    padding-left: 10px;
+    padding-right: 5px;
+    font-size: 17px;
+    
+}
+
+.text p {
+    padding: 0;
+    margin: 0;
+    color: black;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.perfil {
+    width: 30px;
+    height: 30px;
+}
+
+.menu {
+    padding-left: 155px;
+    width: 12px;
+    height: 30px;
+}
